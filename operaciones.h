@@ -1,0 +1,1 @@
+void arregloEscalar(float *arreglo, int tam, float escalar);
